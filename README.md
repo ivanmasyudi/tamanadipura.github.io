@@ -1,1 +1,1 @@
-# tamanadipura.io
+# tamanadipura.github.io
